@@ -1,0 +1,12 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+	<title>header</title>
+	<defs>
+		<image  width="24" height="24" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAMAAADXqc3KAAAAAXNSR0IB2cksfwAAAT5QTFRFZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmF88muwAAAGp0Uk5TACJ9vPD/6sF7JSGrlE0eBwQfk+utI1d1CXfoX3jYT3AxJ9pe1xXi/WAoA9zlCy9Lr+lMJnk9ToG+wu0dHAU8OwbKwz7uwEoByM0CfJJYY5VhsHOyt3aoaNlp7C2A74grWvTyWaf+IH7nv669zlkAAAE7SURBVHicXVLZVsIwEJ0qU0WKKFilWBWq1QIiWnBrQRTc9xX3XVz+/wdsJolwvA9z7pJMTiYB4FC6ukOIak9vGDrRF1G1aH9sYDAaTwzpbX9YHUlKnjRSo5KbY2x/bNyYSDOZsUzuT07ZQU1PI+KMxvrYlkP9U9mg5vJImC2wPQmWRwwWz6FAkSljHkBfoHNdGVCXZKIEZY0OWpTBEsn4Mqy4xGwZKCSLq+D5xCoysLn0AKvE1mRQI5lDwByx9Q3u1/m6KkKowq/Z4EGDK38TtrY53dll/t4+V24dDg7FxI5YcCzESRkUVQzWYcGpGLGaATg7Jx67YMElX3XVDEpYLQEUrm/EEG+DKWbv6JqOdf/wiH8IPT3nHfFQ+A+mfMKX10777b396P5HS9qt5id0Qv+qe4jfP2X5fX4Bp2QibojXiewAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="header">
+		<use id="Vector Smart Object" href="#img1" x="0" y="0" />
+	</g>
+</svg>

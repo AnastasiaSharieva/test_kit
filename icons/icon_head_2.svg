@@ -1,0 +1,12 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25 23" width="25" height="23">
+	<title>header</title>
+	<defs>
+		<image  width="25" height="23" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAXCAMAAADJPRQhAAAAAXNSR0IB2cksfwAAARpQTFRFZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmsiM31QAAAF50Uk5TABX/VtEQmo3dSiD7DGPEl6DZo6vMgPhJUhz8B/E3zp6QjpZF5gPHXOhDCPojkp066TjwdLABflDAd2wzPEAP89jQ3veBwpTcAmhG42TaGlOFqq975yZMK9ZwvtvtBhghynAAAADXSURBVHicY2DAAhiZgACbBAMzCysrK1YZNnaswkDAwYlDgoubB4cMLx+Y4hfAAIJCYBlhEVF0ICYOlpHgQDdMUgpijbSMLLpv5KAMeQU0GUUlKENZRRVVRk0dylDV0ESR0NLWgTF19VBk9A3gTEMjaWQZYxM405TDzBwJWFgiVFlZoABrJANsbJEBkoSdgba9gyMEODlru5jCZeRdbdzcPcBMLmdPL28fuIwvJ4MWkx+Y6Q8MmQABuExgEFdwCCQgQsXCwiMi4TJ+UUzRNlC2T4y2fCyYBQDvZCDfGr8YpAAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="header">
+		<use id="Vector Smart Object" href="#img1" x="0" y="0" />
+	</g>
+</svg>
